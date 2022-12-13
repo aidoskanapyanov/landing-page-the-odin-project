@@ -35,10 +35,12 @@ section.quote {
 
 section.action {
     background: white;
+    min-height: 70vh;
 }
 
 section.footer {
     background: #1F2937;
+    min-height: 15vh;
 }
 
 .main {
