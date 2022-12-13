@@ -154,3 +154,18 @@ section.footer {
     font-weight: bolder;
     color: #1f2937;
 }
+
+.action-card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-width: 70vw;
+    min-height: 30vh;
+    background-color: #3382f6;
+    border-radius: 12px;
+}
+
+.action-main {
+    font-size: 24px;
+    color: #f9faf8;
+}
