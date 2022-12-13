@@ -26,7 +26,7 @@ section.hero {
 }
 
 section.info {
-    background: #E5E7EB;
+    background: white;
 }
 
 section.quote {
@@ -34,7 +34,7 @@ section.quote {
 }
 
 section.action {
-    background: #E5E7EB;
+    background: white;
 }
 
 section.footer {
