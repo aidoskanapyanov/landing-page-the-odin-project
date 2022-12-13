@@ -1,4 +1,4 @@
-# The Odin Project landing page assignment
+# The Odin Project's CSS Course - Landing Page Assignment
 
 This is my submission for the landing page assignment in The Odin Project's CSS course.
 
