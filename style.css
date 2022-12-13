@@ -13,12 +13,14 @@ section {
     justify-content: center;
     align-items: center;
     font-family: Roboto;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 section.header {
     min-height: 10vh;
     background: #1F2937;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 section.hero {
@@ -63,4 +65,9 @@ section.footer {
     display: flex;
     min-width: 30vw;
     justify-content: space-between;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
 }
