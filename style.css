@@ -100,11 +100,19 @@ section.footer {
     background-color: #6D747D;
 }
 
-.btn {
+.btn-1 {
     font-size: 18px;
     padding: 0.3rem 1rem 0.3rem 1rem;
     border-radius: 12px;
     border-color: #3382f6;
+    background-color: #3382f6;
+}
+
+.btn-2 {
+    font-size: 18px;
+    padding: 0.3rem 1rem 0.3rem 1rem;
+    border-radius: 12px;
+    border-color: #f9faf8;
     background-color: #3382f6;
 }
 
