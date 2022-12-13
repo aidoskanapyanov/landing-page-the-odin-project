@@ -2,6 +2,11 @@ body {
     margin: 0;
 }
 
+a,
+u {
+    text-decoration: none;
+}
+
 section {
     min-height: 90vh;
     display: flex;
@@ -13,6 +18,7 @@ section {
 section.header {
     min-height: 10vh;
     background: #1F2937;
+    justify-content: space-around;
 }
 
 section.hero {
@@ -44,4 +50,15 @@ section.footer {
 .secondary {
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.links {
+    display: flex;
+    min-width: 30vw;
+    justify-content: space-between;
 }
