@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+section {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section:nth-child(1) {
+    background: #1F2937;
+}
+
+section:nth-child(2) {
+    background: #E5E7EB;
+}
+
+section:nth-child(3) {
+    background: #E5E7EB;
+}
+
+section:nth-child(4) {
+    background: #E5E7EB;
+}
+
+section:nth-child(5) {
+    background: #1F2937;
+}
