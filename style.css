@@ -70,4 +70,15 @@ section.footer {
 .left {
     display: flex;
     flex-direction: column;
+    min-height: 25vh;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.btn {
+    font-size: 18px;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 12px;
+    border-color: #3382f6;
+    background-color: #3382f6;
 }
